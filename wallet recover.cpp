@@ -343,7 +343,7 @@
       "integrity": "sha512-l6+Z6rrNf5p333SHfEte6r+WkOxGlWK4bLuZKbtf/2TXRN+qhrvn1XE63VhD8Oe9oIHQ7F7W1nG2k/TJFhx2yA==",
       "dev": true,
       "dependencies": {
-        "find-up": "^5.0.0"
+        "find-up": "^5.1.0"
       },
       "engines": {
         "node": ">=v14"
